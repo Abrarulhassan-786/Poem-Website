@@ -1,0 +1,155 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    display: flex;
+    margin:6px 0px 0px 30px;
+}
+li{
+    display: inline;
+    padding: 10px;
+    color: lightsteelblue;
+    font-weight: bold;
+}
+#imglog{
+    width: 150px;
+}
+#navigation{
+    margin: 20px 0px 0px 500px;
+}
+#active{
+    color: #1A2F63;
+    font-weight: bold;
+}
+#searchbox{
+    height: 25px;
+}
+input::placeholder{
+    font-weight: bold;
+    color: lightsteelblue;
+}
+input{
+    border: 1px solid lightgray;
+}
+input[type="Search"]{
+    padding-left: 20px;
+}
+.typeinput{
+    font-size: 15px;
+    padding: 13px;
+    width: 300px;
+    box-shadow: 10px 5px 3px lightgray;
+    border-radius: 7px solid black;
+}
+.typeinput::placeholder{
+    color:black;
+}
+#btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 170px;
+    height: 50px;
+    font-size: 20px;
+    box-shadow: 5px 5px 2px lightgray;
+    border: 1px solid white;
+    margin-left: 70px;
+}
+h1{
+    padding: 20px;
+    margin-left: 40px;
+}
+#contactus{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 70px;
+}
+#imgcon{
+        width: 400px;
+        height: 400px;
+
+}
+#formcontact{
+    margin-left: 30px;
+}
+#footer{
+    background-color: #353B4A;
+    display: flex;
+    padding: 10px;
+    margin-top: 40px;
+}
+#owenerimag{
+    width: 250px;
+    height:250px;
+    margin-left: 60px;
+    border-radius: 150px;
+}
+.orglist{
+    display: block;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.acedlist{
+    display: block;
+    color: white;
+    margin-left: 90px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+#natiopoet{
+    display: block;
+    color: white;
+    margin-left: 90px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+#wonerimag{
+    margin-left: 90px;
+    padding: 10px;
+}
+.heading{
+    color: #173EA0;
+}
+/*----------SECOND FOOTER-------*/
+#secondfooter{
+    background-color: #353B4A;
+    padding: 20px;
+}
+#insta{
+    width: 40px;
+    height: 40px;
+}
+#face{
+    width: 40px;
+    height: 40px;
+}
+#twit{
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+}
+.headings{
+    color: #173EA0;
+    margin-left: 9px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: lightgray;
+}
+#lastfooter{
+    background-color: #5E7BC3;
+    height: 50px;
+}
+#conhead{
+    color:white;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+}

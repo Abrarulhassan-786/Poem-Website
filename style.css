@@ -1,0 +1,154 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    display: flex;
+    margin:6px 0px 0px 30px;
+}
+li{
+    display: inline;
+    padding: 10px;
+    color: lightsteelblue;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: lightgrey;
+}
+#imglog{
+    width: 150px;
+}
+#navigation{
+    margin: 20px 0px 0px 500px;
+}
+#active{
+    color: #1A2F63;
+    font-weight: bold;
+}
+#searchbox{
+    height: 25px;
+}
+input::placeholder{
+    font-weight: bold;
+    color: lightsteelblue;
+}
+input{
+    border: 1px solid lightgray;
+}
+input[type="Search"]{
+    padding-left: 20px;
+}
+#baner{
+    width: 100%;
+}
+#poemlink{
+    width: 350px;
+    height: 400px;
+}
+#storylink{
+    width: 350px;
+    height: 400px;
+    padding-left: 10px;
+}
+#poem_story{
+    display: flex;
+    padding: 20px;
+    margin-left: 300px;
+}
+#info_stroy_poem{
+    display: flex;
+    margin-left: 300px;
+}
+#informationstory{
+    border: 2px solid black;
+    padding: 10px;
+    width: 325px;
+    margin-left: 8px;
+    box-shadow: 0px 15px 20px 5px #888888;
+}
+
+#informationpoem{
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 20px;
+    width: 330px;
+    box-shadow: 0px 15px 20px 5px #888888;
+}    
+/*---------FOOTER--------*/
+#footer{
+    background-color: #353B4A;
+    display: flex;
+    padding: 10px;
+    margin-top: 40px;
+}
+#owenerimag{
+    width: 250px;
+    height:250px;
+    margin-left: 60px;
+    border-radius: 150px;
+}
+.orglist{
+    display: block;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.acedlist{
+    display: block;
+    color: white;
+    margin-left: 90px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+#natiopoet{
+    display: block;
+    color: white;
+    margin-left: 90px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+#wonerimag{
+    margin-left: 90px;
+    padding: 10px;
+}
+.heading{
+    color: #173EA0;
+}
+/*----------SECOND FOOTER-------*/
+#secondfooter{
+    background-color: #353B4A;
+    padding: 20px;
+}
+#insta{
+    width: 40px;
+    height: 40px;
+}
+#face{
+    width: 40px;
+    height: 40px;
+}
+#twit{
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+}
+.headings{
+    color: #173EA0;
+    margin-left: 9px;
+    padding: 10px;
+}
+#lastfooter{
+    background-color: #5E7BC3;
+    height: 50px;
+}
+h3{
+    color:white;
+    text-align: center;
+    padding-top: 15px;
+}
+
